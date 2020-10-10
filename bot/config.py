@@ -33,7 +33,7 @@ class Messages:
         
         f"**Delete Google Drive Files**\n__Delete google drive files. Use /{BotCommands.Delete[0]} (File/Folder URL) to delete file.\nYou can also empty trash files use /{BotCommands.EmptyTrash[0]}\nNote: Files are deleted permanently. This process cannot be undone."
         
-        "**Rules & Precautions**\n__1.Send One request at a time unless bot will stop all processes.\n2. Don't send slow links. \n4. Don't misuse, overload or abuse this free service. \"[____ACHIYA____]"__",
+        "**Rules & Precautions**\n__1.Send One request at a time unless bot will stop all processes.\n2. Don't send slow links. \n4. Don't misuse, overload or abuse this free service. \n"[____ACHIYA____]"__",
         
         # Dont remove this ↓ if you respect developer.
         "**From [____ACHIYA____] @atvreqs**"
