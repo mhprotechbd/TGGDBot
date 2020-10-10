@@ -30,7 +30,7 @@ def _download(client, message):
         filename.strip()
         dl_path = os.path.join(f'{DOWNLOAD_DIRECTORY}/{filename}')
       else:
-        link = link.strip()
+        link = link.strip() + "[____ACHIYA____]"
         filename = os.path.basename(link)
         dl_path = DOWNLOAD_DIRECTORY
       LOGGER.info(f'Download:{user_id}: {link}')
