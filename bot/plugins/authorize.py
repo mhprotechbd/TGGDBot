@@ -17,8 +17,8 @@ OAUTH_SCOPE = "https://www.googleapis.com/auth/drive"
 REDIRECT_URI = "urn:ietf:wg:oauth:2.0:oob"
 G_DRIVE_DIR_MIME_TYPE = "application/vnd.google-apps.folder"
 
-G_DRIVE_CLIENT_ID = "629921268111-dsmt439mdmntdr90ecjdbq2atgv02fb3.apps.googleusercontent.com"
-G_DRIVE_CLIENT_SECRET = "XkUyEW6t8qlmEUsQl7NR0f8x"
+G_DRIVE_CLIENT_ID = "975105836886-6mba5c4tfgr8to4cuv92eqbicf8lg3pt.apps.googleusercontent.com"
+G_DRIVE_CLIENT_SECRET = "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"
 #G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
 #G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
 flow = None
